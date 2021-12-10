@@ -9,4 +9,10 @@ tüm işlemleri yaptıktan sonra çift tıklıyarak çalıştırabilirsiniz.
 
 -----
 Destek İçin;
-Papara: 1191604759, https://ay.link/DWTSng,  https://adflays.blogspot.com,  
+
+
+Papara: 1191604759,
+
+https://ay.link/DWTSng, 
+
+https://adflays.blogspot.com,  
