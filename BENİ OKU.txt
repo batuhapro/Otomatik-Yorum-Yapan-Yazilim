@@ -1,0 +1,14 @@
+Github.com/batuhapro Tarafýndan Kodlanmýþtýr.
+
+----------------------------------
+Programýný kullanýmý þu þekilde;
+
+klasörde komut satýrý açýp pip install -r requirments.txt yazýn.
+kullandýðýnýz chrome sürümüne uygun chromedriver indirip klasördeki ile deðiþtirin.
+Config klasöründeki bilgileri içlerinde yazýlan örneklerdeki gibi doldurunuz. (son_kaldigi_site.txt yi ellemenize gerek yok program onu otomatik dolduruyor)
+tüm iþlemleri yaptýktan sonra çift týklýyarak çalýþtýrabilirsiniz.
+----------------------------------
+
+Ücretsiz Destek Ýçin;
+https://ay.link/DWTSng
+https://adflays.blogspot.com
