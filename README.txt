@@ -1,3 +1,6 @@
+-- Videolu Anlatım --
+https://www.youtube.com/watch?v=ACly_A-oa_M
+
 Youtube: https://www.youtube.com/channel/UCF0QAIPgn1-mG_hBiUMZ8ww
 R10: Seonuz
 
