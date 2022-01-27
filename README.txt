@@ -2,11 +2,11 @@ Youtube: https://www.youtube.com/channel/UCF0QAIPgn1-mG_hBiUMZ8ww
 R10: Seonuz
 
 ----------------------------------
-Programını kullanımı şu şekilde;
+ProgramÄ±nÄ± kullanÄ±mÄ± ÅŸu ÅŸekilde;
 
-klasörde komut satırı açıp pip install -r requirments.txt yazın.
-Config klasöründeki bilgileri içlerinde yazılan örneklerdeki gibi doldurunuz. (son_kaldigi_site.txt yi ellemenize gerek yok program onu otomatik dolduruyor)
-tüm işlemleri yaptıktan sonra çift tıklıyarak çalıştırabilirsiniz.
+klasÃ¶rde komut satÄ±rÄ± aÃ§Ä±p pip install -r requirments.txt yazÄ±n.
+Config klasÃ¶rÃ¼ndeki bilgileri iÃ§lerinde yazÄ±lan Ã¶rneklerdeki gibi doldurunuz. (son_kaldigi_site.txt yi ellemenize gerek yok program onu otomatik dolduruyor)
+tÃ¼m iÅŸlemleri yaptÄ±ktan sonra py main.py ile Ã§alÄ±ÅŸtÄ±rabilirsiniz.
 ----------------------------------
 
-Bir sorunuz olursa Youtube üzerinden ulaşabilirsiniz..
+Bir sorunuz olursa Youtube Ã¼zerinden ulaÅŸabilirsiniz..
